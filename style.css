@@ -645,3 +645,16 @@ a {
   background-blend-mode: multiply;
   z-index: 0;
 }
+
+.ts_element {
+  padding: 20px;
+  max-width: 600px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--black);
+  background-color: #264a20;
+  border-radius: 15px;
+  border: 1px solid #fff;
+}
